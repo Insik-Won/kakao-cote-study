@@ -130,3 +130,9 @@ dmypy.json
 
 # .vscode
 .vscode/
+
+# Pipfile
+Pipfile.lock
+
+# pylint
+./pylintrc
